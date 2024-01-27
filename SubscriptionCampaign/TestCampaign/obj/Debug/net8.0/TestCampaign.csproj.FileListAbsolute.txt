@@ -1,0 +1,14 @@
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\bin\Debug\net8.0\TestCampaign.exe
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\bin\Debug\net8.0\TestCampaign.deps.json
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\bin\Debug\net8.0\TestCampaign.runtimeconfig.json
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\bin\Debug\net8.0\TestCampaign.dll
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\bin\Debug\net8.0\TestCampaign.pdb
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\TestCampaign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\TestCampaign.AssemblyInfoInputs.cache
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\TestCampaign.AssemblyInfo.cs
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\TestCampaign.csproj.CoreCompileInputs.cache
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\TestCampaign.dll
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\refint\TestCampaign.dll
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\TestCampaign.pdb
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\TestCampaign.genruntimeconfig.cache
+C:\Users\David Crawley\source\repos\CSharpProjects\SubscriptionCampaign\SubscriptionCampaign\TestCampaign\obj\Debug\net8.0\ref\TestCampaign.dll
